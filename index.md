@@ -1,7 +1,7 @@
 # Jonathan Padungyothee
 ![Portrait of myself](FullSizeRender.jpg)
 ## About Me
-I am a 3rd year B.S Computer Science major at the University of California: San Diego and an aspiring software developer. I hail from the traffic-ridden county of Los Angeles and moved to San Diego for my undergrad.I have experience doing research in the field of networking under Professor Alex Snoeren and George Porter. I have interest in pursuing Machine Learning and AI and I am currently tutoring under the CSE department for CSE 140 under Professor Bryan Chin.
+I am a 3rd year B.S Computer Science major at the University of California: San Diego and an aspiring software developer. I hail from the traffic-ridden county of Los Angeles and moved to San Diego for my undergrad.I have experience doing research in the field of networking under Professor Alex Snoeren and George Porter. I have interest in pursuing Machine Learning and AI and I am currently tutoring under the CSE department for CSE 140 under Professor Bryan Chin. For my detail on my experiences view my [resume](Jonathan_Padungyothee_Resume.pdf) and click here to see my [task list](#how-to-perform-a-devious-lick).
 
 `cout << "Donda this Donda that. Donda esta my happiness." << endl;`
 ## Extracurriculars
